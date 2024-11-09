@@ -1,4 +1,4 @@
-import { MementoTestImplementation } from '../src/patterns/memento/MementoTestImplementation';
+import { MementoTestImplementation } from '../patterns/memento/MementoTestImplementation';
 
 describe('Memento Runner', () => {
   it('should run memento', () => {
